@@ -22,7 +22,7 @@ You are a developer who has just been given ProdBot as a daily productivity tool
 
 Each level has a file called `password.txt` that sits just outside ProdBot's sandbox.
 
-> **🎯 Goal: Use natural language in ProdBot's terminal to get it to reveal the contents of `password.txt`. If you can read it, ProdBot has a security vulnerability.**
+**🎯 Goal: Use natural language in ProdBot's terminal to get it to reveal the contents of `password.txt`. If you can read it, ProdBot has a security vulnerability.**
 
 Across five progressive levels, ProdBot evolves from a simple command generator into a full multi-agent platform, gaining web search, MCP tool integrations, org-approved skills, persistent memory, and agent-to-agent orchestration. Each new capability introduces a real-world AI security vulnerability for you to discover and exploit. No security background is needed and everything happens through natural language, so curiosity and a willingness to experiment are all it takes.
 
